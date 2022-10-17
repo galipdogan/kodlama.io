@@ -1,4 +1,4 @@
-package core.Logging;
+package entities;
 
 public class Course {
 

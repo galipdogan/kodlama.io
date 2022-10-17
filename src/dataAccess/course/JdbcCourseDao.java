@@ -1,6 +1,6 @@
 package dataAccess.course;
 
-import core.Logging.Course;
+import entities.Course;
 
 public class JdbcCourseDao implements CourseDao {
     @Override
